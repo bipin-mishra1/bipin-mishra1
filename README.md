@@ -1,4 +1,4 @@
-- 👋 Hi, I’m mishra bipin, a computer science student.
+- 👋 Hi, I’m mishra bipin, a computer science engineer.
 - 👀 I’m interested in algorithms,python,ML and full stack web development.
 - 🌱 I’m currently learning and exploring different technologies.
 - 📫 You can contact me on bipinm56567@gmail.com.
